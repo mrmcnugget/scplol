@@ -1,0 +1,73 @@
+.sidebar
+{
+    width: 250px;
+    display: inline-block;
+    float: left;
+}
+.mainbar
+{
+    width: 1000px;
+    display: inline-block;
+    margin-left: 35px;
+    float: left;
+}
+.sidebarbox
+{
+    border: 1px solid #666;
+    border-radius: 10px;
+    box-shadow: none;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 1px 1px 3px #822;
+}
+.redtext
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #A00;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 14px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+.darkredtext
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #400;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 12px;
+    margin-bottom: 1px;
+}
+.bigred
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #A00;
+    font-size: 24px;
+    line-height: 40px;
+    margin-bottom: 1px;
+}
+.maintext
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin-top: 5px;
+}
+.picturetext
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 11px;
+    line-height: 12px;
+    margin-top: 2px;
+    font-weight: bold;
+    margin-left: 10px;
+    color: #666;
+}
+.picturebox
+{
+    display: inline-block;
+    margin: 20px;
+    border: 1px solid #666;
+    float: left;
+}
